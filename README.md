@@ -10,7 +10,7 @@
 - Data Structures & Algorithms
 
 ## 🌱 Currently Learning
-- Software Development
+- Software Development Fundamentals
 - Git & GitHub
 - Problem Solving
 
