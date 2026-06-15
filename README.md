@@ -19,5 +19,6 @@
 - Software Engineering
 - AI & Technology
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/yashu-bhusari
+📫 Connect With Me
+
+- LinkedIn: [Yashu Bhusari](https://www.linkedin.com/in/yashu-bhusari)
