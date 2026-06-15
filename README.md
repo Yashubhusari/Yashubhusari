@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yashu 👋
 
-<!--
-**Yashubhusari/Yashubhusari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Chitkara University
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- C Programming
+- Python
+- JavaScript
+- HTML
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Software Development
+- Git & GitHub
+- Problem Solving
+
+## 💡 Interests
+- Web Development
+- Software Engineering
+- AI & Technology
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/yashu-bhusari
